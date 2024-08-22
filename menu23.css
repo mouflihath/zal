@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(food-3048440_1280.jpg);
+    background-position:center ;
+    background-size: cover;
+}
+
+#gateau{
+    color: azure;
+    align-items: center;
+    text-align: center;
+}
+.oli{
+    color: rgb(94, 154, 217);
+    line-height: 2;
+    text-align: justify;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#glace{
+    color: azure;
+    align-items: center;
+    text-align: center;  
+}
+
+#burger{
+    color: azure;
+    align-items: center;
+    text-align: center;  
+}
+
+#frites{
+    color: azure;
+    align-items: center;
+    text-align: center;  
+}
+
+#crêpes{
+    color: azure;
+    align-items: center;
+    text-align: center;  
+}
+
+#pizza{
+    color: azure;
+    align-items: center;
+    text-align: center;  
+}

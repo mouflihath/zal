@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(cake-2853376_1280.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.gal{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.gal img{
+    width: 200px;
+    height: auto;
+    border:  solid white;
+   
+}
+
+figcaption{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    color: rgb(0, 15, 15);
+    border: 2px solid white  ;
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+    
+    
+}
+
+a{
+    text-decoration: none;
+
+}
+a :hover{
+    background-color: rgb(67, 87, 200);
+}
+
+h2{
+    color: rgb(214, 17, 205);
+    padding: 10px;
+    margin: 30px ;
+    text-align: center;
+    align-items: center;
+}
+
+
+h1{
+    text-align: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    color: rgb(215, 59, 187);
+}
+
